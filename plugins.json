@@ -1,11 +1,11 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rareanimes.com&sz=%size%",
-        "jarFileSize": 104858,
-        "fileHash": "sha256-a2bd5e537f188ba69ac9e7562e55154e429955bba0e6ea3d8a49dfef972faf26",
+        "jarFileSize": 113980,
+        "fileHash": "sha256-3e2311a101ff58e187ab1e5d18833698304fd5bccbc601307a072e3869b6e3c5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/vhatakrg112-jpg/my-raretoon-plugin",
-        "fileSize": 33013,
+        "fileSize": 35368,
         "status": 3,
         "authors": [
             "ganesh vhatkar"
@@ -16,12 +16,12 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "RareToonsProvider",
         "jarUrl": "https://raw.githubusercontent.com/vhatakrg112-jpg/my-raretoon-plugin/main/RareToonsProvider.cs3",
         "description": "RareToonsIndia - Hindi, Tamil & Telugu dubbed rare anime and cartoons (fan dubs)",
         "url": "https://raw.githubusercontent.com/vhatakrg112-jpg/my-raretoon-plugin/main/RareToonsProvider.cs3",
         "name": "RareToonsProvider",
-        "jarHash": "sha256-4c0d3437c2963061539035c1dc16850f639287e6ee91c98944ba66a5e487ac54"
+        "jarHash": "sha256-ff0c70103985586a3a57cb762537fa2bc17bbb01ab09a9b99c99ed2f1c657e11"
     }
 ]
