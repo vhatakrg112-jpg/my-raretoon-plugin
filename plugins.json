@@ -2,10 +2,10 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rareanimes.com&sz=%size%",
         "jarFileSize": 152282,
-        "fileHash": "sha256-d9b3d09c750ab9b1efb49c6caf524f52288ceb3949bb094fcf1fbdccc511c7ea",
+        "fileHash": "sha256-96878d903681cefe25750a178f4989aaf473c86f657662734d9cfe14b755405a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/vhatakrg112-jpg/my-raretoon-plugin",
-        "fileSize": 49159,
+        "fileSize": 49164,
         "status": 3,
         "authors": [
             "ganesh vhatkar"
@@ -16,10 +16,10 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 13,
+        "version": 15,
         "internalName": "RareToonsProvider",
         "jarUrl": "https://raw.githubusercontent.com/vhatakrg112-jpg/my-raretoon-plugin/main/RareToonsProvider.cs3",
-        "description": "RareToonsIndia - codedew MQ + RareStream (StreamWish/PixelDrain) support",
+        "description": "RareToonsIndia - DLBeta/HubCloud scan-auto + PixelDrain capture",
         "url": "https://raw.githubusercontent.com/vhatakrg112-jpg/my-raretoon-plugin/main/RareToonsProvider.cs3",
         "name": "RareToonsProvider",
         "jarHash": "sha256-6f6578552b0bbf0497b98d24742de8f1cc8d252196ded7bce7a42597cad64bc6"
