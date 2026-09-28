@@ -4,23 +4,16 @@
         "jarFileSize": 95252,
         "fileHash": "sha256-669bbc3a092920928778fcd3d5e68fa7629ad234f01b0d06668acce354634230",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/user/repo",
+        "repositoryUrl": "https://github.com/vhatakrg112-jpg/my-raratoon-plugin",
         "fileSize": 29947,
         "status": 3,
-        "authors": [
-            "ganesh vhatkar"
-        ],
-        "tvTypes": [
-            "Anime",
-            "Cartoon",
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["ganesh vhatkar"],
+        "tvTypes": ["Anime", "Cartoon", "Movie", "TvSeries"],
         "version": 1,
         "internalName": "RareToonsProvider",
-        "jarUrl": "https://raw.githubusercontent.com/user/repo/builds/RareToonsProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/vhatakrg112-jpg/my-raratoon-plugin/main/RareToonsProvider.cs3",
         "description": "RareToonsIndia - Hindi, Tamil & Telugu dubbed rare anime and cartoons (fan dubs)",
-        "url": "https://raw.githubusercontent.com/user/repo/builds/RareToonsProvider.cs3",
+        "url": "https://raw.githubusercontent.com/vhatakrg112-jpg/my-raratoon-plugin/main/RareToonsProvider.cs3",
         "name": "RareToonsProvider",
         "jarHash": "sha256-eb4ac3459ef32feada00a9b6a11fee46f67c07a697b5f84f8735696b5e15e06f"
     }
